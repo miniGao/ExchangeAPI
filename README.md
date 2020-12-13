@@ -1,14 +1,15 @@
-# Soccer Club Management Web Application
+# Currency Exchange API
 
-This is an ASP.NET Web Application using MVC structure and C# Language. The soccer club management helps club managers to register new Club, manage Players in existing club, transfer players, etc.
+Only 6 countries, but full GET, POST, PUT, DELETE HTTP methods ready for service, including filter by date or a range of dates
 
 ## Installation
 
-Prerequisite: Microsoft SQL Server. This project uses Entity Framework to create Database automatically on your PC. Open project using Microsoft Visual Studio, Database of Club Repository and Identity Repository will be created on the 1st time running this project.
+Recommend: Postman or VS Code REST Client for testing the API. This project uses Repository Layer to isolate the business logic and database operation; AutoMapper and DTOs to improve
+network effciency.
 
 ## Usage
 
-Demostrated how to implement EF to connect LocalDB to ASP.NET Web Application. Simple usage of ASP.NET Identity is also included in this project.
+Demostrated how to implement API connect with AWS RDS using ASP.NET Web Application.
 
 ## Author
 miniGao
