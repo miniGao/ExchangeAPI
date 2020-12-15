@@ -5725,11 +5725,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Google Drive\\Documents\\Centennial College\\2020 Fall Semester\\Workspace Fall 2020\\TestingLab\\NETCore\\API Project Final\\CurrencyExchangeAPI\\CurrencyInfoLibrary\\CurrencyInfoLibrary.csproj",
+      "projectUniqueName": "E:\\Workspace\\.net-workspace\\CurrencyExchangeAPI\\ExchangeAPI\\CurrencyInfoLibrary\\CurrencyInfoLibrary.csproj",
       "projectName": "CurrencyInfoLibrary",
-      "projectPath": "E:\\Google Drive\\Documents\\Centennial College\\2020 Fall Semester\\Workspace Fall 2020\\TestingLab\\NETCore\\API Project Final\\CurrencyExchangeAPI\\CurrencyInfoLibrary\\CurrencyInfoLibrary.csproj",
+      "projectPath": "E:\\Workspace\\.net-workspace\\CurrencyExchangeAPI\\ExchangeAPI\\CurrencyInfoLibrary\\CurrencyInfoLibrary.csproj",
       "packagesPath": "C:\\Users\\Gary\\.nuget\\packages\\",
-      "outputPath": "E:\\Google Drive\\Documents\\Centennial College\\2020 Fall Semester\\Workspace Fall 2020\\TestingLab\\NETCore\\API Project Final\\CurrencyExchangeAPI\\CurrencyInfoLibrary\\obj\\",
+      "outputPath": "E:\\Workspace\\.net-workspace\\CurrencyExchangeAPI\\ExchangeAPI\\CurrencyInfoLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gary\\AppData\\Roaming\\NuGet\\NuGet.Config",

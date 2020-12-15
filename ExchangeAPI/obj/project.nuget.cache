@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/+lLCtqT6/xWKtSN9zs0o2XFP4hyagv/PWgy+zuvxTKTRVvoDNVK/wzUdsPUqGu/Gd3eRJzekjEFumv5jcWJTg==",
+  "dgSpecHash": "W9Jx69778SiPqVjDKmlyYRDOqWh3CSCkOgps0Tq+49PtDn5Z0I7GlsNFRjNxam5S/dFVVz6I7Rsgzl0o5sDzFA==",
   "success": true,
-  "projectFilePath": "E:\\Google Drive\\Documents\\Centennial College\\2020 Fall Semester\\Workspace Fall 2020\\TestingLab\\NETCore\\API Project Final\\CurrencyExchangeAPI\\ExchangeAPI\\ExchangeAPI.csproj",
+  "projectFilePath": "E:\\Workspace\\.net-workspace\\CurrencyExchangeAPI\\ExchangeAPI\\ExchangeAPI\\ExchangeAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gary\\.nuget\\packages\\amazon.extensions.configuration.systemsmanager\\2.0.0\\amazon.extensions.configuration.systemsmanager.2.0.0.nupkg.sha512",
     "C:\\Users\\Gary\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",

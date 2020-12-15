@@ -9805,11 +9805,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Google Drive\\Documents\\Centennial College\\2020 Fall Semester\\Workspace Fall 2020\\TestingLab\\NETCore\\API Project Final\\CurrencyExchangeAPI\\ExchangeAPI\\ExchangeAPI.csproj",
+      "projectUniqueName": "E:\\Workspace\\.net-workspace\\CurrencyExchangeAPI\\ExchangeAPI\\ExchangeAPI\\ExchangeAPI.csproj",
       "projectName": "ExchangeAPI",
-      "projectPath": "E:\\Google Drive\\Documents\\Centennial College\\2020 Fall Semester\\Workspace Fall 2020\\TestingLab\\NETCore\\API Project Final\\CurrencyExchangeAPI\\ExchangeAPI\\ExchangeAPI.csproj",
+      "projectPath": "E:\\Workspace\\.net-workspace\\CurrencyExchangeAPI\\ExchangeAPI\\ExchangeAPI\\ExchangeAPI.csproj",
       "packagesPath": "C:\\Users\\Gary\\.nuget\\packages\\",
-      "outputPath": "E:\\Google Drive\\Documents\\Centennial College\\2020 Fall Semester\\Workspace Fall 2020\\TestingLab\\NETCore\\API Project Final\\CurrencyExchangeAPI\\ExchangeAPI\\obj\\",
+      "outputPath": "E:\\Workspace\\.net-workspace\\CurrencyExchangeAPI\\ExchangeAPI\\ExchangeAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gary\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9826,8 +9826,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\Google Drive\\Documents\\Centennial College\\2020 Fall Semester\\Workspace Fall 2020\\TestingLab\\NETCore\\API Project Final\\CurrencyExchangeAPI\\CurrencyInfoLibrary\\CurrencyInfoLibrary.csproj": {
-              "projectPath": "E:\\Google Drive\\Documents\\Centennial College\\2020 Fall Semester\\Workspace Fall 2020\\TestingLab\\NETCore\\API Project Final\\CurrencyExchangeAPI\\CurrencyInfoLibrary\\CurrencyInfoLibrary.csproj"
+            "E:\\Workspace\\.net-workspace\\CurrencyExchangeAPI\\ExchangeAPI\\CurrencyInfoLibrary\\CurrencyInfoLibrary.csproj": {
+              "projectPath": "E:\\Workspace\\.net-workspace\\CurrencyExchangeAPI\\ExchangeAPI\\CurrencyInfoLibrary\\CurrencyInfoLibrary.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qkHwyh1o2dnaJjNZcWYN5pLkJR0mJeOrra1HXLz87dQjH36BRyKirV98oUoBCBPN+yH7PKWshIvkArpAcl2Sgg==",
+  "dgSpecHash": "1IQ4xNN+0mSzRso6HXHXa13FQXcFzcvbuv45e0jXYAcsOgWI/boRVAboLS8K3tjAhQi9wtOZbb4U+s0uzkDSuw==",
   "success": true,
-  "projectFilePath": "E:\\Google Drive\\Documents\\Centennial College\\2020 Fall Semester\\Workspace Fall 2020\\TestingLab\\NETCore\\API Project Final\\CurrencyExchangeAPI\\CurrencyInfoLibrary\\CurrencyInfoLibrary.csproj",
+  "projectFilePath": "E:\\Workspace\\.net-workspace\\CurrencyExchangeAPI\\ExchangeAPI\\CurrencyInfoLibrary\\CurrencyInfoLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gary\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Gary\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
